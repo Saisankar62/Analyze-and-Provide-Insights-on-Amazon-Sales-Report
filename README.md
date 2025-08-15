@@ -49,6 +49,7 @@ Average Order Value = DIVIDE([Total Sales], [Total Orders], 0)
   * **Average Order Value (AOV):** \[Calculated in Power BI]
 * Sales trend over time (Line Chart)
 * Date, Category, and Fulfilment slicers
+* <img width="1308" height="706" alt="Image" src="https://github.com/user-attachments/assets/cf6f8282-5438-48bd-bf03-3f789f6358eb" />
 
 ### **2. Product & Fulfilment**
 

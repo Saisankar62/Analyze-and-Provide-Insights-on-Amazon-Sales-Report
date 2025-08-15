@@ -100,7 +100,7 @@ Average Order Value = DIVIDE([Total Sales], [Total Orders], 0)
 * Karnataka and Telangana are the best-performing states, contributing 16.33% of total sales.
 * Amazon Fulfilled delivers more consistent performance than Merchant Fulfilled, with 40% fewer cancellations.
 
-##Tools Used
+## Tools Used
 
 Power BI – Data cleaning, analysis, and visualization
 

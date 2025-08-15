@@ -51,6 +51,7 @@ Average Order Value = DIVIDE([Total Sales], [Total Orders], 0)
 * Date, Category, and Fulfilment slicers
 <img width="1308" height="706" alt="Image" src="https://github.com/user-attachments/assets/cf6f8282-5438-48bd-bf03-3f789f6358eb" />
 
+
 ### **2. Product & Fulfilment**
 
 * **Top-selling categories:**
@@ -62,6 +63,8 @@ Average Order Value = DIVIDE([Total Sales], [Total Orders], 0)
 * Fulfilment method comparison (Clustered Column Chart)
 * Product details table (Category, Size, Quantity, Sales)
 <img width="826" height="679" alt="Image" src="https://github.com/user-attachments/assets/98fe716f-0a00-4b48-b933-67ac09c8fba2" />
+
+
 ### **3. Geographical & Customer**
 
 * State-wise sales distribution (Map)

@@ -61,7 +61,7 @@ Average Order Value = DIVIDE([Total Sales], [Total Orders], 0)
   **Top 3 combined contribution:** **90.88%** of total sales
 * Fulfilment method comparison (Clustered Column Chart)
 * Product details table (Category, Size, Quantity, Sales)
-
+<img width="826" height="679" alt="Image" src="https://github.com/user-attachments/assets/98fe716f-0a00-4b48-b933-67ac09c8fba2" />
 ### **3. Geographical & Customer**
 
 * State-wise sales distribution (Map)

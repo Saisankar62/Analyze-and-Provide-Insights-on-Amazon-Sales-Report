@@ -4,7 +4,7 @@ Analyze and Provide Insights on Amazon Sales Report
 ## Project Overview
 
 This project analyzes Amazon sales transaction data to identify trends, top-selling products, best-performing regions, and fulfilment method efficiency.
-The analysis is visualized in an **interactive 4-page Power BI dashboard**, providing actionable insights for improving sales strategies, inventory planning, customer service, and marketing targeting.
+The analysis is visualized in an **interactive Power BI dashboard**, providing actionable insights for improving sales strategies, inventory planning, customer service, and marketing targeting.
 
 ---
 
